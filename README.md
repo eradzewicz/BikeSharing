@@ -1,4 +1,4 @@
-# BikeSharing
+# BikeSharingDemand analysis
 
 Time series analysis of BikeSharingDemand dataset for Data Workshop Foundation
 
