@@ -1,4 +1,4 @@
-# BikeSharingDemand analysis
+# TSA-of-BikeSharingDemand
 
 Time series analysis of BikeSharingDemand dataset for Data Workshop Foundation
 
